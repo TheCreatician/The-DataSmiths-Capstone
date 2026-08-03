@@ -71,12 +71,20 @@ README.md
 
 ## 🚀 Project Status
 
-🟡 In Progress
+| Role                             | Status                           |
+| -------------------------------- | -------------------------------- |
+| Data Cleaning                    | Completed                        |
+| EDA                              | Completed                        |
+| Data Visualization               | Completed                        |
+| Feature Engineering & Encoding   | Completed                        |
+| Logistic Regression              | Completed                        |
+| Decision Tree & Random Forest    | Completed                        |
+| Model Evaluation                 | Completed                        |
+| Interpretation & Recommendations | Completed                        |
+| Final Jupyter Notebook           | Completed                        |
+| Medium Report                    | In progress                      |
+| Presentation Slides              | Not started                      |
 
-Current Phase:
-- Project Planning
-- Team Organization
-- Repository Setup
 
 
 
