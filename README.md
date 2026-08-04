@@ -82,8 +82,8 @@ README.md
 | Model Evaluation                 | Completed                        |
 | Interpretation & Recommendations | Completed                        |
 | Final Jupyter Notebook           | Completed                        |
-| Medium Report                    | In progress                      |
-| Presentation Slides              | Not started                      |
+| Medium Report                    | Completed                        |
+| Presentation Slides              | Completed                        |
 
 
 
