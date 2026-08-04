@@ -1,4 +1,4 @@
-# The DataSmiths – Employee Attrition Prediction
+# The DataSmiths – IBM HR Employee Attrition Prediction
 
 ## 📖 Project Overview
 
